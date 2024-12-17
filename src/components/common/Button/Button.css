@@ -1,0 +1,18 @@
+.btn-start-preparation {
+    background-color: white;
+    border: 2px solid white;
+    color: #333;
+    padding: 12px 30px;
+    border-radius: 50px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+}
+
+.btn-start-preparation:hover {
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    cursor: pointer;
+}
